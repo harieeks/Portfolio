@@ -1,0 +1,23 @@
+
+
+*{
+    padding: 0;
+    margin: 0;
+    font-family:  Helvetica, sans-serif;
+}
+.error{
+  color: red;
+}
+.error i{
+  color: green;
+}
+.nav-item :hover{
+  border: 2px solid;
+  border-color:white ;
+  border-radius: 50px;
+}
+#nav-bar, #footer, #btn-clr{
+background-color :#4abdac;
+/* margin-top: 30px; */
+    
+}
